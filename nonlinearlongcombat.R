@@ -1,5 +1,5 @@
 #Non-Linear LongCombat Function 
-#Load Libraries as Dependencies (Also Depends on NeuroCombat function)
+#Load Libraries as Dependencies (Also Depends on NeuroCombat.R script)
 library(invgamma)
 library(lme4)
 library('pbkrtest')
